@@ -1,7 +1,7 @@
 GIT
-  remote: https://github.com/duduribeiro/rails.git
-  revision: 444a96933642d16e9435e6938d08003f35c5ec1c
-  branch: wrap-active_record_encryption.configuration-on-after-initialize
+  remote: https://github.com/basecamp/rails.git
+  revision: 3bdccc24a41629c296b7f12922cf1afa262a7da8
+  branch: active-record-encryption+71-update-fix
   specs:
     actioncable (7.1.0.alpha)
       actionpack (= 7.1.0.alpha)
