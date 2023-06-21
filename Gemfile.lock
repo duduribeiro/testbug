@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/basecamp/rails.git
-  revision: 3bdccc24a41629c296b7f12922cf1afa262a7da8
+  revision: fd5daa716058f074e903f62d7bec1257b9fd0417
   branch: active-record-encryption+71-update-fix
   specs:
     actioncable (7.1.0.alpha)
